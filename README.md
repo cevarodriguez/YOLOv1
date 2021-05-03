@@ -5,4 +5,4 @@ The algorithm was implemented according to the paper published on the subject co
 
 Results were reasonable taking into account the training limitations associated with training the model on Google Colaboratory.
 
-Feel free to contact me via e-mail should you have any doubts regarding the code.
+Do not hesitate to contact me via e-mail should you have any doubts regarding the code.
